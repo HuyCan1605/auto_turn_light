@@ -7,6 +7,7 @@ tự động bật đèn mà không cần bấm nút với điều kiện phòng
 - 1 relay
 - 1 arduino uno
 - 1 công tắc bập bênh
+- có thể lắp thêm LCD để theo dõi 
 
 2. Cách hoạt động:
  -  Hệ thống sẽ tự động bật đèn khi có người đi vào mà không cần bật công tắc.
